@@ -80,4 +80,4 @@ Implementar formularios de **Registro** y **Login** con estado y eventos en Reac
 <img width="1747" height="902" alt="image" src="https://github.com/user-attachments/assets/059d2702-0482-4d8d-84fb-735e60c7c443" />
 
 
-👉 [Pizzería Mamma Mia](https://remigio96.github.io/PizzeriaMM/)
+👉 [Pizzería Mamma Mia]([https://remigio96.github.io/PizzeriaMM/](https://remigio96.github.io/PizzeriaMM_2_Estados_y_componentes/))
